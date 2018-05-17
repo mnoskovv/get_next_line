@@ -1,0 +1,4 @@
+1
+22
+333
+ gcc -g get_next_line.c -I get_next_line.h ./libft/libft.a 
